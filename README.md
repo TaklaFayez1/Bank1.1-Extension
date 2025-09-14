@@ -1,0 +1,1 @@
+| **Project 1.1 [Bank 1] (1st Extension)** | Extended version introducing account balance handling, including deposit, withdraw, and client balance display. | Account balance operations, total bank balance overview. |
